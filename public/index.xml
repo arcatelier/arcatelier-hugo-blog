@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>arcatelier</title>
+    <title>Arcatelier</title>
     <link>http://arcatelier.github.io/</link>
-    <description>Recent content on arcatelier</description>
+    <description>Recent content on Arcatelier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <managingEditor>mullikine@gmail.com (Shane Mulligan)</managingEditor>
+    <webMaster>mullikine@gmail.com (Shane Mulligan)</webMaster>
     <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +1300</lastBuildDate><atom:link href="http://arcatelier.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pen.el with OpenAI GLIDE for generating images from text</title>
       <link>http://arcatelier.github.io/posts/pen-el-with-openai-glide-for-generating-images-from-text/</link>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +1300</pubDate>
-      
+      <author>mullikine@gmail.com (Shane Mulligan)</author>
       <guid>http://arcatelier.github.io/posts/pen-el-with-openai-glide-for-generating-images-from-text/</guid>
       <description>Here are some surreal and surreptitious images of cat strawberries. I hope it makes you happy!
 Summary I add GLIDE to Pen.el as a prompting engine, to generate images given a text prompt.
@@ -23,7 +24,7 @@ Summary I add GLIDE to Pen.el as a prompting engine, to generate images given a 
       <title>Enshrining semiotic artwork: Surreal iNFTs with Alethea.AI</title>
       <link>http://arcatelier.github.io/posts/enshrining-semiotic-artwork-surreal-infts-with-alethea-ai/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +1300</pubDate>
-      
+      <author>mullikine@gmail.com (Shane Mulligan)</author>
       <guid>http://arcatelier.github.io/posts/enshrining-semiotic-artwork-surreal-infts-with-alethea-ai/</guid>
       <description>Summary I enshrine Melee&amp;rsquo;s surreal artworks as iNFTs on Alethea.AI to preserve their meaning against the narrative industrial complex and the ever increasing rate of truth decay in society.
  Prior reading https://semiosis.github.io/posts/describing-melee-s-paintings-with-alephalpha/  Glossary  Alethea.AI http://github.com/semiosis/glossaries-gh/blob/master/alethea-ai.txt Surreal artwork http://github.com/semiosis/glossaries-gh/blob/master/surreal.txt  First some glossary definitions.
@@ -34,7 +35,7 @@ Summary I add GLIDE to Pen.el as a prompting engine, to generate images given a 
       <title>Describing Melee&#39;s Paintings with AlephAlpha</title>
       <link>http://arcatelier.github.io/posts/describing-melee-s-paintings-with-alephalpha/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +1300</pubDate>
-      
+      <author>mullikine@gmail.com (Shane Mulligan)</author>
       <guid>http://arcatelier.github.io/posts/describing-melee-s-paintings-with-alephalpha/</guid>
       <description>Summary I take AlephAlpha&amp;rsquo;s multimodal LM for a spin to see how well it does surreal art interpretation.
  AlephAlpha https://aleph-alpha.de/techblog/95_the_end_of_the_era_imagenet Prompt http://github.com/semiosis/prompts/blob/master/prompts/given-some-surreal-art-and-a-description-elaborate-1.prompt Engine http://github.com/semiosis/engines/blob/master/engines/alephalpha-eu-tran-mm.engine Pen.el https://github.com/semiosis/pen.el/  This is how to make a multi-modal prompt payload pf-given-some-surreal-art-and-a-description-elaborate/1
