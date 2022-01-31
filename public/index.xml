@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +1300</lastBuildDate><atom:link href="http://arcatelier.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +1300</lastBuildDate><atom:link href="http://arcatelier.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pen.el with OpenAI GLIDE for generating images from text</title>
+      <link>http://arcatelier.github.io/posts/pen-el-with-openai-glide-for-generating-images-from-text/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +1300</pubDate>
+      
+      <guid>http://arcatelier.github.io/posts/pen-el-with-openai-glide-for-generating-images-from-text/</guid>
+      <description>Here are some surreal and surreptitious images of cat strawberries. I hope it makes you happy!
+Summary I add GLIDE to Pen.el as a prompting engine, to generate images given a text prompt.
+ colab https://colab.research.google.com/github/openai/glide-text2im/blob/main/notebooks/text2im.ipynb  The one with a red background and a cat resting its neck upon a strawberry blending into the background is what is known as a surrealeptitious strawberry. Glossary  surrealeptitious https://www.urbandictionary.com/define.php?term=surrealeptitious    Examples 1  A surreal painting of a cat and a strawberry   Love the tabby.</description>
+    </item>
+    
     <item>
       <title>Describing Melee&#39;s Paintings with AlephAlpha</title>
       <link>http://arcatelier.github.io/posts/describing-melee-s-paintings-with-alephalpha/</link>

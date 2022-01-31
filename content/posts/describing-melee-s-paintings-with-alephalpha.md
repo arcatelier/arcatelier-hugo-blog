@@ -47,7 +47,7 @@ engine: "AlephAlpha EUTranMM"
 
 ## Rose Mannequin {#rose-mannequin}
 
-{{< figure src="./148658560_2839287366296108_857180560792297037_n.jpg" >}}
+{{< figure src="/ox-hugo/148658560_2839287366296108_857180560792297037_n.jpg" >}}
 
 
 ### My description {#my-description}
@@ -114,7 +114,7 @@ Without any context, the model has greater difficulty.
 
 ## Fiery red girl {#fiery-red-girl}
 
-{{< figure src="./148751110_885252488961991_2593863030122457822_n.jpg" >}}
+{{< figure src="/ox-hugo/148751110_885252488961991_2593863030122457822_n.jpg" >}}
 
 
 ### AlephAlpha interpretation {#alephalpha-interpretation}
@@ -271,7 +271,7 @@ One literal interpretation
 
 ### _**Quasi-blind**_ {#quasi-blind}
 
-{{< figure src="./149610795_852720085510722_7762625424216125088_n.jpg" >}}
+{{< figure src="/ox-hugo/149610795_852720085510722_7762625424216125088_n.jpg" >}}
 
 -   Question AlephAlpha: `What does the ribbon represent?`
     -   It's the ribbon of the flag, representing the unity of the country and the people. It's a reminder that we are all one.
@@ -287,7 +287,7 @@ One literal interpretation
 
 ### _**Quasi-bound**_ {#quasi-bound}
 
-{{< figure src="./148957104_4062416750455469_4718804921220743845_n.jpg" >}}
+{{< figure src="/ox-hugo/148957104_4062416750455469_4718804921220743845_n.jpg" >}}
 
 -   Question AlephAlpha: `What does the ribbon represent?`
     -   The ribbon represents the love of my family and friends and how much I love them.
@@ -357,7 +357,7 @@ artwork which you drew. I hope I did OK. At
 last I know what it represents and so I bought
 a red ribbon.
 
-{{< figure src="./2022-01-22-222447.jpg" >}}
+{{< figure src="/ox-hugo/2022-01-22-222447.jpg" >}}
 
 -   <https://en.wikipedia.org/wiki/Red%5Fthread%5Fof%5Ffate>
 
