@@ -1,0 +1,69 @@
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+OPTIONS: toc:nil
+
+#+HUGO_BASE_DIR: /home/shane/var/smulliga/source/git/arcatelier/arcatelier-hugo
+#+HUGO_SECTION: ./posts
+
+#+TITLE: Pen.el with OpenAI GLIDE for generating images from text
+#+DATE: <2022-01-30>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: pen openai glide surreal melee
+
+Here are some surreal and surreptitious images
+of cat strawberries. I hope it makes you
+happy!
+
+** Summary
+I add =GLIDE= to =Pen.el= as a prompting
+engine, to generate images given a text
+prompt.
+
++ colab :: https://colab.research.google.com/github/openai/glide-text2im/blob/main/notebooks/text2im.ipynb
+
+The one with a red background and a cat resting its neck upon a strawberry blending into the background is what is known as a =surrealeptitious= strawberry.
+[[./cat-strawberries-2.png]]
+
+** Glossary
++ surrealeptitious :: https://www.urbandictionary.com/define.php?term=surrealeptitious
+
+[[./urban-surrealeptitious.png]]
+
+** Examples
+#+BEGIN_SRC text -n :async :results verbatim code
+  A surreal painting of a cat and a strawberry
+#+END_SRC
+
+Love the tabby.
+[[./catandstrawberry.png]]
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  A surreal painting of a cat and a surreptitious strawberry
+#+END_SRC
+
+Oh I looove these cat-strawberries. Yo!
+[[./surreal-cat-strawberry-1.png]]
+
+The first one here with strawberries for teeth is equally as impressive as the next!
+[[./surreal-cat-strawberry.png]]
+
+The first one kinda scares me and that is good.
+[[./surreal-cat-strawberries-4.png]]
+
+Strawberries for feet? Hmm
+[[./cat-strawberries-5.png]]
+
+Love it.
+[[./cat-strawberries-6.png]]
+
+** Me and Flo
+This is my cat.
+[[./2022-01-30-192651.jpg]]
+
+** =Pen.el= code
++ engine :: http://github.com/semiosis/engines/blob/master/engines/glide.engine
+
++ prompt :: http://github.com/semiosis/prompts/blob/master/prompts/given-a-text-prompt-visualise-it-1.prompt
+
++ openai example :: https://github.com/openai/glide-text2im/blob/main/notebooks/text2im.ipynb
+
++ pen script :: http://github.com/semiosis/pen.el/blob/master/scripts/glide.py
