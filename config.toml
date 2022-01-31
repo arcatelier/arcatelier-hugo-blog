@@ -1,7 +1,7 @@
 baseURL = "http://arcatelier.github.io/"
 languageCode = "en-us"
 title = "arcatelier"
-theme = "hello-friend-ng"
+theme = "autophugo"
 paginate     = 10
 
 # https://grep.app/search?q=dark&regexp=true&case=true&filter%5Bpath.pattern%5D%5B0%5D=config.toml
